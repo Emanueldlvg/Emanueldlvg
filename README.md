@@ -1,5 +1,4 @@
 # AUDIT SUMMARY
-<a href="https://www.linkedin.com/in/emanuel-febriano-29021996"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/0xdemonnn"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 
