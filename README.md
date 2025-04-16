@@ -3,7 +3,6 @@
 
 
 Hi,
-my name is Emanuel Febriano or known as 0xDemon in WEB3 Security. 
 On this Github repo, I will make a summary of all the vulnerabilities I have encountered in every project I have helped to secure.
 
 *note : only include vulnerabilities with the MEDIUM / HIGH severity in this summary*
