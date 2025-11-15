@@ -8,7 +8,7 @@
 
 |  Platform  |  Protocol  |  Findings  |  Full Report  |  Rank  | 
 |------------|------------|------------|---------------|--------|
-|  Code4rena |  Nudge.xyz |  
+|  Code4rena  |  Nudge.xyz  |  
 |TempleGold|Temple Gold is a claim on future airdrops|<a href="https://templedao.link/">TempleGold</a>|High|<a href="https://github.com/Emanueldlvg/Findings/blob/main/TempleGold%20-%20Temple%20Gold%20token%20will%20lost%20if%20user%20using%20account%20abstraction%20wallet%20.md">*detail*</a>|
 
 
