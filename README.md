@@ -1,9 +1,9 @@
 # AUDIT SUMMARY
 <a href="https://x.com/0xdemonnn"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
-This is my contest achievement, only list rank 1 - 3. 
+These are my accomplishments as an SR. I've won several contests and also conducted private audits.
 
-For more detail on contest i participated can check on public profile section.
+For details on the contests I've participated in, please check my public profile section.
 
 ## Contest
 
