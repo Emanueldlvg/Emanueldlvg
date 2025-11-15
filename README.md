@@ -9,8 +9,8 @@ For more detail on contest i participated can check on public profile section.
 
 |  Platform  |  Protocol  |  Findings  |  Full Report  |  Rank  | 
 |------------|------------|------------|---------------|--------|
-|  Code4rena  |  Nudge.xyz  |  <a href="https://code4rena.com/audits/2025-03-nudgexyz/submissions/S-123">  1  </a>  |  <a href="https://code4rena.com/reports/2025-03-nudgexyz">Nudge Full Report</a>  |  1  |
-
+|  Code4rena  |  Nudge.xyz  |  <a href="https://code4rena.com/audits/2025-03-nudgexyz/submissions/S-123">1</a>  |  <a href="https://code4rena.com/reports/2025-03-nudgexyz">Nudge Full Report</a>  |  1  |
+|  Code4rena  |  BitVault   |  <a href="https://code4rena.com/audits/2025-04-bitvault/submissions/S-145">1</a>  , <a href="https://code4rena.com/audits/2025-04-bitvault/submissions/S-167">2</a>  |  <a href="https://code4rena.com/reports/2025-04-bitvault">BitVault Full Report  |  2  |
 
 
 
